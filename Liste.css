@@ -1,0 +1,94 @@
+.liste {
+	color: white;
+	background-color: rgb(15, 15, 15);
+	padding: 16px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	width: 16vw;
+	position: sticky;
+	top: 15.5vh;
+}
+.bouton-fermeture-liste {
+	background: #e23623;
+	outline: none;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	color: white;
+	padding: 2px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.liste-fermee {
+	padding: 16px;
+	width: 19.6vw;
+	background: rgb(15, 15, 15);
+}
+.bouton-ouverture-liste {
+	border-radius: 15px;
+	padding: 5px 20px 5px 20px;
+	margin-left: 3.7vw;
+	margin-top: 4vh;
+	color: white;
+	background: #303030;
+	cursor: pointer;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
+.element-liste{
+	font-size: 16px;
+	padding: 0;
+	margin-left: 10px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
+.hyperliens{
+	text-decoration: none;
+	color: #db4332;
+}
+.reinitialisation-liste{
+	border-radius: 15px;
+	padding: 5px 20px 5px 20px;
+	margin-left: 2.5vw;
+	margin-top: 1vh;
+	color: white;
+	background: #303030;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	cursor: pointer;
+}
+.liste-vide{
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	margin-top: 3vh;
+}
+.fixeur-liste{
+	background: rgb(15, 15, 15);
+}
+.logo-ted{
+	margin-top: 30px;
+	margin-left: 50px;
+	height: 55px;
+	width: 130px;
+}
+.texte-liste-fermee{
+	margin-top: 40px;
+	font-weight: none;
+	color: white;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
+.titre-liste-actuelle{
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+	font-size: 30px;
+	margin-bottom: 3vh;
+}
+.affichage-total{
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+}
