@@ -1,7 +1,7 @@
 # Daily-Ted
 
 Daily Ted est un projet codé en React modélisant une page avec différentes fonctionnalités.
-Le principe de cette page étant de réunir différents ted Talks classés selon leur catégorie, vocbulaire technique, temps etc et de gérer une liste de lecture.
+Le principe de cette page étant de réunir différents ted Talks classés selon leur catégorie, vocabulaire technique, temps etc et de gérer une liste de lecture.
 
 Pour information :
 
