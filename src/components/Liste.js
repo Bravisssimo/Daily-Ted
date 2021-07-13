@@ -4,7 +4,7 @@ import logoTed from '../assets/logoTed.jpg'
 
 function Liste({liste, modifierListe}) {
 
-    const [listeOuverte, modifierOuverture] = useState(true)
+    const [listeOuverte, modifierOuverture] = useState(false)
     const total = liste.reduce((acc, plantType) => acc + plantType.amount * plantType.secondes, 0)
     useEffect(() => {
         document.title=`Daily Ted ( liste : ${formatMin(total)} )`
