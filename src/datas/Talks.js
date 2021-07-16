@@ -210,7 +210,7 @@ export const Talks = [
 	},
 	{
 		auteur: "Jen Gunter",
-		titre: "Can you actually boost your immune system ? Here's the truth",
+		titre: "Can you actually boost your immune system ?",
 		categorie: "Médical",
 		id: "4tx",
 		technique: 3,
