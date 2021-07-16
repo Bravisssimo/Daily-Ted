@@ -17,7 +17,7 @@ function Bandeau ({categorieActive, modifierCategorie}){
                     <div className='titre-logo'>
                         <img src={logo} alt='La maison jungle' className='logo-projet'/>
                         <h1 className='titre-projet'>Daily Ted</h1>
-                        <h3 className='sous-titre'>A selection of the best Ted Talks for your schedule</h3>
+                        <h3 className='sous-titre'>La crème des Ted talks en quelques clics</h3>
                     </div>
                     <div className='selecteur'>
                         <Categories
