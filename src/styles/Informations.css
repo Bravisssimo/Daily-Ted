@@ -1,0 +1,80 @@
+.disposition-ted {
+	margin: 3.5vh 0 0.7vh 4vw;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	position: relative;
+}
+.image {
+	height: 27.5vh;
+	width: 32vw;
+	border-radius: 20px;
+	object-fit: cover;
+	border: solid 2px white;
+}
+.recommandation {
+	position: absolute;
+	border-radius: 0 17.5px 0 20px;
+	background-color: rgb(15, 15, 15);
+	color: white;
+	padding: 10px;
+	right: 1.4px;
+	top: 1.6px;
+	font-weight: 500;
+	cursor: default;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
+.temps{
+	position: absolute;
+	border-radius: 17.5px 0 20px 0;
+	background-color: rgb(15, 15, 15);
+	color: white;
+	padding: 10px;
+	top: 1.6px;
+	left: 1.6px;
+	font-weight: 500;
+	cursor: default;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
+.auteur{
+	color: white;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	font-size: 1.05vw;
+}
+.engrenages{
+	position: absolute;
+	border-radius: 20px 0 17.5px 0;
+	background-color: rgb(15, 15, 15);
+	color: white;
+	padding: 10px;
+	bottom: 7.4vh;
+	right: 1.4px;
+	font-weight: 500;
+	cursor: pointer;
+}
+.titre-ted{
+	padding-top: 0.5vh;
+	color: white;
+	font-weight: bold;
+	font-size: 1.1vw;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 800;
+}
+.bouton-liste{
+	position: absolute;
+	border-radius: 0 20px 0 17.5px;
+	background-color: rgb(15, 15, 15);
+	border-style: none;
+	color: white;
+	padding: 10px;
+	bottom: 21%;
+	left: 1.6px;
+	font-weight: bold;
+	cursor: pointer;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+}
