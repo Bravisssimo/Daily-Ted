@@ -1,0 +1,20 @@
+.selecteur-categorie {
+	width: 10vw;
+	height: 5.5vh;
+	border-radius: 20px;
+	border: solid 4px rgb(15, 15, 15);
+	/*box-shadow: 5px 5px 0 3px;*/
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+}
+.reinitialisation{
+	border-radius: 20px;
+	padding: 1.3vh 20px 1.3vh 20px;
+	margin-left: 2.5vw;
+	margin-top: 2vh;
+	color: white;
+	background: rgb(15, 15, 15);
+	cursor: pointer;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 600;
+}
