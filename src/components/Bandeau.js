@@ -18,7 +18,7 @@ function Bandeau ({categorieActive, modifierCategorie, langueActive, modifierLan
                         <img src={logo} alt='La maison jungle' className='logo-projet'/>
                         <h1 className='titre-projet'>Daily Ted</h1>
                         {langueActive==='Français' ?
-                        <h3 className='sous-titre'>La crème des Ted talks en quelques clics</h3>
+                        <h3 className='sous-titre'>La crème des Ted talks en un clic</h3>
                         :
                         <h3 className='sous-titre'>The greatest Ted talks in a few clics</h3>}
                     </div>
